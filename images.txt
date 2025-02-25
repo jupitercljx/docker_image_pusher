@@ -1,1 +1,1 @@
-nginx
+lobehub/lobe-chat-database
